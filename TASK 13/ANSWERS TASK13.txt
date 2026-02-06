@@ -1,0 +1,10 @@
+- What makes a dashboard effective?
+I say a dashboard is effective when it is simple, focused on the right metrics, and tells a clear story without clutter.
+- KPI meaning and examples?
+I call KPIs “Key Performance Indicators,” like Sales, Profit, or Customer Retention, because they measure success against business goals.
+- Drill‑down vs filter?
+I explain drill‑down as clicking deeper into a chart to see details (Year → Quarter → Month), while filters are manual selections that change what all visuals display.
+- How to avoid misleading visuals?
+I remind myself to use proper scales, avoid cherry‑picking time ranges, and keep labels clear so the audience doesn’t misinterpret the data.
+- How to validate dashboard totals?
+I always cross‑check totals with the raw dataset or source system, ensuring that aggregations and measures match the original numbers.
